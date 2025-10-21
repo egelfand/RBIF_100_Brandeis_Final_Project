@@ -25,7 +25,7 @@ the following steps, sequentially:
                 proteins highlighted.
 
 ### EXTRAS:
-- Script and results can also be downloaded from https://github.com/egelfand/RBIF_100_Brandeis_Final_Project.git
+- Script and results can also be downloaded from [this repo](https://github.com/egelfand/RBIF_100_Brandeis_Final_Project.git)
 - Summary report PDF containing description of analyses and embedded images can be found in the results folder, titled 
         "final_project_summary_report_emilyg.pdf"
 
